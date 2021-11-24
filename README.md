@@ -4,9 +4,10 @@
     <h2>@edelman/svelte-storekeeper</h2>
     <p>A set of hoc stores</p>
     <p align="center"><p align="center">
-		<a href="https://npmjs.com/package/{{ id:npm }}"><img alt="NPM VERSION" src="https://img.shields.io/npm/v/{{ id:npm }}?style=for-the-badge" height="20"/></a>
-<a href="https://npmjs.com/package/{{ id:npm }}"><img alt="NPM DOWNLOADS" src="https://img.shields.io/npm/dt/{{ id:npm }}?style=for-the-badge" height="20"/></a>
-<a href="https://npmjs.com/package/{{ id:npm }}"><img alt="DEPENDENCIES" src="https://img.shields.io/librariesio/release/npm/@edelman/svelte-storekeeper?style=for-the-badge" height="20"/></a>
+		<a href="https://npmcharts.com/compare/@edelman/svelte-storekeeper?minimal=true"><img alt="Downloads per month" src="https://img.shields.io/npm/dm/@edelman/svelte-storekeeper.svg" height="20"/></a>
+<a href="https://www.npmjs.com/package/@edelman/svelte-storekeeper"><img alt="NPM Version" src="https://img.shields.io/npm/v/@edelman/svelte-storekeeper.svg" height="20"/></a>
+<a href="https://david-dm.org/medelman17/svelte-storekeeper"><img alt="Dependencies" src="https://img.shields.io/david/medelman17/svelte-storekeeper.svg" height="20"/></a>
+<a href="https://github.com/medelman17/svelte-storekeeper/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/medelman17/svelte-storekeeper.svg" height="20"/></a>
 	</p>
 </p>
     <p align="center">
